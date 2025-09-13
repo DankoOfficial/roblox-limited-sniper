@@ -1,4 +1,5 @@
 # RoSniper
+![image](https://github.com/user-attachments/assets/8c541dfd-17b5-455c-8944-4db9c778ac52)
 
 RoSniper is a Roblox Limited sniper.  
 It can watch Limited items and try to buy them when the price is lower than your target.
